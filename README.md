@@ -20,6 +20,13 @@ OmniForge orchestrates four specialized, concurrent autonomous agents via smart 
 3. **The Cinematic Agent:** Aligns visual B-roll prompts and dynamic closed-captions to match the precise timestamps of the generated audio layer.
 4. **The Publisher Agent:** Parses the primary asset narrative into ready-to-publish SEO articles and social threads.
 
+## 💰 Token Ecosystem
+
+OmniForge utilizes two utility tokens to power the protocol:
+
+* **OMNI Token:** Enables content purchases and media generation transactions. Users stake OMNI to access the AI content factory and pay for generated assets on-chain.
+* **FORGE Token:** Governs protocol development and ecosystem decisions. FORGE holders participate in governance votes, protocol upgrades, and community treasury allocation.
+
 ## 📈 Development Roadmap
 
 ### **Phase 1: Foundation & Agent Logic (Current)**
